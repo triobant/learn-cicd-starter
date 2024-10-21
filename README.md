@@ -1,4 +1,4 @@
-# Fork of learn-cicd-starter (Notely)
+# Fork of learn-cicd-starter (Notely) Test 0
 
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
