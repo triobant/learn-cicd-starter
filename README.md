@@ -1,6 +1,6 @@
 ![code coverage badge](https://github.com/triobant/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
-# This repo is just for testing and leraning cicd
+# This repo is just for testing and learning cicd
 
 # Fork of learn-cicd-starter (Notely) Test 0
 
