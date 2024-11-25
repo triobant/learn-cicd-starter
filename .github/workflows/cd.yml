@@ -20,8 +20,7 @@ jobs:
 
       - name: Build app
         run: ./scripts/buildprod.sh
-  job_id:
-    steps:
+
       - id: 'auth'
         uses: 'google-github-actions/auth@v2'
         with:
